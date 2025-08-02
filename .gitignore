@@ -1,0 +1,40 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+venv/
+.env/
+.env.bak/
+.venv/
+
+# VSCode settings
+.vscode/
+*.code-workspace
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python test logs
+*.log
+*.pot
+*.pyc
+*.pkl
+
+# Model weights
+*.pth
+*.pt
+
+# Videos and output
+input.mp4
+output.mp4
+
+# Dependencies
+*.egg-info/
